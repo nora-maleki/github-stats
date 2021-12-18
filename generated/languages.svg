@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #178600;width: 65.878%;" class="progress-item"></span><span style="background-color: #e34c26;width: 23.438%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 9.966%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.433%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.240%;" class="progress-item"></span><span style="background-color: #b2011d;width: 0.029%;" class="progress-item"></span><span style="background-color: #198CE7;width: 0.010%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.004%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.002%;" class="progress-item"></span><span style="background-color: #596706;width: 0.000%;" class="progress-item"></span>
+<span style="background-color: #178600;width: 65.878%;" class="progress-item"></span><span style="background-color: #e34c26;width: 23.438%;" class="progress-item"></span><span style="background-color: #DA5B0B;width: 9.966%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.433%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.240%;" class="progress-item"></span><span style="background-color: #b2011d;width: 0.029%;" class="progress-item"></span><span style="background-color: #198CE7;width: 0.010%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.004%;" class="progress-item"></span><span style="background-color: #3D6117;width: 0.002%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -188,15 +188,6 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TeX</span>
-<span class="percent">0.00%</span>
-</li>
-
-
-<li style="animation-delay: 1350ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#596706;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Smalltalk</span>
 <span class="percent">0.00%</span>
 </li>
 
